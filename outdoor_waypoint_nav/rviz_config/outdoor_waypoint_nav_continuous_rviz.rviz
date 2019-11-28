@@ -191,7 +191,7 @@ Visualization Manager:
       Length: 0.1
       Name: GPS Coord Frame
       Radius: 0.01
-      Reference Frame: GPS_link
+      Reference Frame: base_link
       Value: true
     - Class: rviz/Axes
       Enabled: true
